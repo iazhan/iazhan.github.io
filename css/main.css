@@ -884,7 +884,8 @@ pre .javascript .function {
   color: #d9534f;
 }
 .btn {
-  background: rgba(255,255,255,0.8);
+/**$btn-default-bg**/
+  background: rgba(255,255,255,0);
   border: 2px solid #555;
   border-radius: 2px;
   color: #555;
@@ -1029,27 +1030,35 @@ pre .javascript .function {
   padding-top: 0;
 }
 .back-to-top {
-  background: rgba(255,255,255,0.8);
+  background: #222;
+  bottom: -100px;
+  box-sizing: border-box;
+  color: rgba(255,255,255,0.8);
   cursor: pointer;
   font-size: 12px;
-  margin: 8px -10px -20px;
   opacity: 0.6;
+  padding: 0 6px;
+  position: fixed;
+  right: 30px;
   text-align: center;
-  visibility: hidden;
-}
-.back-to-top:hover {
-  opacity: 0.8;
-}
-@media (max-width: 991px) {
-  .back-to-top {
-    display: none;
-  }
-}
-.back-to-top.back-to-top-on {
-  visibility: visible;
+  transition-property: bottom;
+  width: initial;
+  z-index: 1050;
   transition-delay: 0s;
   transition-duration: 0.2s;
   transition-timing-function: ease-in-out;
+}
+.back-to-top:hover {
+  color: #fc6423;
+}
+.back-to-top.back-to-top-on {
+  bottom: 30px;
+}
+@media (max-width: 991px) {
+  .back-to-top {
+    opacity: 0.8;
+    right: 20px;
+  }
 }
 .header {
   background: transparent;
@@ -1576,7 +1585,7 @@ pre .javascript .function {
   margin-left: 5px;
 }
 .post-copyright {
-  background-color: #f9f9f9;
+  background-color: rgba(255,255,255,0.7);
   border-left: 3px solid #ff1700;
   list-style: none;
   margin: 2em 0 0;
@@ -1685,7 +1694,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #18f56b;
+  background: #a2ff5b;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2409,7 +2418,7 @@ ul.breadcrumb li+li:last-child {
   }
 }
 .sidebar {
-  background: rgba(255,255,255,0.8);
+  background: rgba(255,255,255,0);
   box-shadow: none;
   float: left;
   margin-left: -100%;
