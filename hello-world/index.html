@@ -32,7 +32,7 @@
     version: '7.3.0',
     exturl: false,
     sidebar: {"position":"left","display":"post","offset":12,"onmobile":false},
-    back2top: {"enable":true,"sidebar":false,"scrollpercent":false},
+    back2top: {"enable":true,"sidebar":true,"scrollpercent":true},
     save_scroll: true,
     copycode: {"enable":true,"show_result":true,"style":null},
     fancybox: false,
@@ -428,6 +428,10 @@
           <div class="post-nav">
             <div class="post-nav-next post-nav-item">
               
+                <a href="/test/" rel="prev" title="test">
+                  <i class="fa fa-chevron-left"></i> test
+                </a>
+              
               
             </div>
 
@@ -493,7 +497,7 @@
         
           <a href="/archives/">
         
-          <span class="site-state-item-count">11</span>
+          <span class="site-state-item-count">12</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
@@ -631,6 +635,13 @@
         </div>
       <!--/noindex-->
       
+        <div class="back-to-top motion-element">
+          <i class="fa fa-arrow-up"></i>
+          
+            <span id="scrollpercent"><span>0</span>%</span>
+          
+        </div>
+      
 
     </div>
   </aside>
@@ -720,9 +731,6 @@
         
       </div>
     </footer>
-      <div class="back-to-top">
-        <i class="fa fa-arrow-up"></i>
-      </div>
 
     
 

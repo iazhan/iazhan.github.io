@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[test]]></title>
+    <url>%2Ftest%2F</url>
+    <content type="text"><![CDATA[## ## ##]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2Fhello-world%2F</url>
     <content type="text"><![CDATA[欢迎来到阿战的博客。博客信息本博客建立于2019年1月15日，同时注册域名 51az.top，预祝自己可以越走越高。 博客目的希望将写博客当做记笔记一样，通过写博客将自己学的东西和生活记录下来。 博客平台博客由Hexo驱动，使用NexT主题，部署在GitHub。]]></content>
