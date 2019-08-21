@@ -41,7 +41,14 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;strong&gt;欢迎来到阿战的博客。&lt;/strong&gt;&lt;/p&gt;&lt;h1 id=&quot;博客信息&quot;&gt;&lt;a href=&quot;#博客信息&quot; class=&quot;headerlink&quot; title=&quot;博客信息&quot;&gt;&lt;/a&gt;博客信息&lt;/h1&gt;&lt;p&gt;本博客建立于2019年1月15日，同时注册域名 51az.top，预祝自己可以越走越高。&lt;/p&gt;
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;欢迎来到阿战的博客。&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&quot;博客信息&quot;&gt;&lt;a href=&quot;#博客信息&quot; class=&quot;headerlink&quot; title=&quot;博客信息&quot;&gt;&lt;/a&gt;博客信息&lt;/h1&gt;&lt;p&gt;本博客建立于2019年1月15日，同时注册域名
+        
+      
     
     </summary>
     
@@ -61,7 +68,14 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;strong&gt;保佑我数据结构不挂&lt;/strong&gt;&lt;/p&gt;&lt;h1 id=&quot;无向图深度优先搜索&quot;&gt;&lt;a href=&quot;#无向图深度优先搜索&quot; class=&quot;headerlink&quot; title=&quot;无向图深度优先搜索&quot;&gt;&lt;/a&gt;无向图深度优先搜索&lt;/h1&gt;&lt;h2 id=&quot;从初始点Vi出发深度优先搜索由邻接矩阵GA表示的图&quot;&gt;&lt;a href=&quot;#从初始点Vi出发深度优先搜索由邻接矩阵GA表示的图&quot; class=&quot;headerlink&quot; title=&quot;从初始点Vi出发深度优先搜索由邻接矩阵GA表示的图&quot;&gt;&lt;/a&gt;从初始点Vi出发深度优先搜索由邻接矩阵GA表示的图&lt;/h2&gt;
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;保佑我数据结构不挂&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&quot;无向图深度优先搜索&quot;&gt;&lt;a href=&quot;#无向图深度优先搜索&quot; class=&quot;headerlink&quot; title=&quot;无向图深度优先搜索&quot;&gt;&lt;/a&gt;无向图深度优先搜索&lt;/h1&gt;&lt;h2
+        
+      
     
     </summary>
     
@@ -81,7 +95,14 @@
     
     <summary type="html">
     
-      &lt;p&gt;将曾经用C语言写的一个猜数字小程序转化为java版&lt;br&gt;C语言代码： &lt;/p&gt;
+      
+      
+        
+        
+          &lt;p&gt;将曾经用C语言写的一个猜数字小程序转化为java版&lt;br&gt;C语言代码： &lt;/p&gt;
+&lt;figure class=&quot;highlight cpp&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span
+        
+      
     
     </summary>
     
@@ -101,14 +122,20 @@
     
     <summary type="html">
     
-      &lt;p&gt;最近的生活很是无趣，一天天的准备着二级考试却好似一点进度都没有，分数总还是徘徊在这一块，也总是没有进步，却因为这个二级也好长时间没有写博客了。  &lt;/p&gt;
+      
+      
+        
+        
+          &lt;p&gt;最近的生活很是无趣，一天天的准备着二级考试却好似一点进度都没有，分数总还是徘徊在这一块，也总是没有进步，却因为这个二级也好长时间没有写博客了。 
+        
+      
     
     </summary>
     
     
-      <category term="NOTE" scheme="https://51az.top/tags/NOTE/"/>
-    
       <category term="LIFE" scheme="https://51az.top/tags/LIFE/"/>
+    
+      <category term="NOTE" scheme="https://51az.top/tags/NOTE/"/>
     
   </entry>
   
@@ -121,7 +148,13 @@
     
     <summary type="html">
     
-      &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;为期两周的课程设计终于结束了，自己也结束了在实验室划水的日子。在这几天里我完成了自己的课程设计ATM模拟系统，这个课程设计主要用到了动态链表和文件。&lt;br&gt;对于链表自己之前是学过的，只是没有用过所以在使用过程中有许多的不熟悉，尤其是在处理文件中读取链表和将链表输出到文件还有历遍链表查找某个数据是否存在等问题时，对头指针和工作指针的把握总是不足。不过，经历了这次的程序设计我感觉我对指针和动态链表的理解越来越深了，对其的运用也越来越熟练了。&lt;/p&gt;
+      
+      
+        
+        
+          &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
+        
+      
     
     </summary>
     
@@ -145,7 +178,13 @@
     
     <summary type="html">
     
-      &lt;h1 id=&quot;数据结构的定义&quot;&gt;&lt;a href=&quot;#数据结构的定义&quot; class=&quot;headerlink&quot; title=&quot;数据结构的定义&quot;&gt;&lt;/a&gt;数据结构的定义&lt;/h1&gt;&lt;h2 id=&quot;数据：&quot;&gt;&lt;a href=&quot;#数据：&quot; class=&quot;headerlink&quot; title=&quot;数据：&quot;&gt;&lt;/a&gt;数据：&lt;/h2&gt;&lt;p&gt;是对客观事物的符号表示，在计算机科学中是指所有能输入到计算机程序中冰杯计算机程序处理的符号的总称。&lt;/p&gt;
+      
+      
+        
+        
+          &lt;h1 id=&quot;数据结构的定义&quot;&gt;&lt;a href=&quot;#数据结构的定义&quot; class=&quot;headerlink&quot; title=&quot;数据结构的定义&quot;&gt;&lt;/a&gt;数据结构的定义&lt;/h1&gt;&lt;h2 id=&quot;数据：&quot;&gt;&lt;a href=&quot;#数据：&quot; class=&quot;headerlink&quot;
+        
+      
     
     </summary>
     
@@ -169,7 +208,13 @@
     
     <summary type="html">
     
-      &lt;h1 id=&quot;链表的解释：&quot;&gt;&lt;a href=&quot;#链表的解释：&quot; class=&quot;headerlink&quot; title=&quot;链表的解释：&quot;&gt;&lt;/a&gt;链表的解释：&lt;/h1&gt;&lt;p&gt;链表是一种常见的基础数据结构，结构体指针在这里得到了充分的利用。链表可以动态的进行存储分配，也就是说，链表是一个功能极为强大的数组，他可以在节点中定义多种数据类型，还可以根据需要随意增添，删除，插入节点。链表都有一个头指针，一般以head来表示，存放的是一个地址。链表中的节点分为两类，头结点和一般节点，头结点是没有数据域的。链表中每个节点都分为两部分，一个数据域，一个是指针域。说到这里你应该就明白了，链表就如同车链子一样，head指向第一个元素：第一个元素又指向第二个元素；……，直到最后一个元素，该元素不再指向其它元素，它称为“表尾”，它的地址部分放一个“NULL”（表示“空地址”），链表到此结束。&lt;/p&gt;
+      
+      
+        
+        
+          &lt;h1 id=&quot;链表的解释：&quot;&gt;&lt;a href=&quot;#链表的解释：&quot; class=&quot;headerlink&quot;
+        
+      
     
     </summary>
     
@@ -189,7 +234,13 @@
     
     <summary type="html">
     
-      &lt;h1 id=&quot;isdigit&quot;&gt;&lt;a href=&quot;#isdigit&quot; class=&quot;headerlink&quot; title=&quot;isdigit&quot;&gt;&lt;/a&gt;isdigit&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;头文件：&lt;/strong&gt; ctype.h&lt;/p&gt;&lt;p&gt;&lt;strong&gt;定义：&lt;/strong&gt; isdigit(char ch)参数ch是一个char型字符。&lt;/p&gt;
+      
+      
+        
+        
+          &lt;h1 id=&quot;isdigit&quot;&gt;&lt;a href=&quot;#isdigit&quot; class=&quot;headerlink&quot; title=&quot;isdigit&quot;&gt;&lt;/a&gt;isdigit&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;头文件：&lt;/strong&gt;
+        
+      
     
     </summary>
     
@@ -213,7 +264,13 @@
     
     <summary type="html">
     
-      &lt;h1 id=&quot;算法的复杂度&quot;&gt;&lt;a href=&quot;#算法的复杂度&quot; class=&quot;headerlink&quot; title=&quot;算法的复杂度&quot;&gt;&lt;/a&gt;算法的复杂度&lt;/h1&gt;&lt;h2 id=&quot;时间复杂度&quot;&gt;&lt;a href=&quot;#时间复杂度&quot; class=&quot;headerlink&quot; title=&quot;时间复杂度&quot;&gt;&lt;/a&gt;时间复杂度&lt;/h2&gt;&lt;p&gt;  算法的时间复杂度是指执行算法所需要的计算工作量，既算法执行过程中所需要的基本运算次数，为了能够比较可观的反映出一个算法的效率，在度量一个算法的工作量时，不仅应该与所使用的计算机、程序设计语言以及程序编制者无感，而且还应该与算法实现过程中许多细节无关。&lt;/p&gt;
+      
+      
+        
+        
+          &lt;h1 id=&quot;算法的复杂度&quot;&gt;&lt;a href=&quot;#算法的复杂度&quot; class=&quot;headerlink&quot; title=&quot;算法的复杂度&quot;&gt;&lt;/a&gt;算法的复杂度&lt;/h1&gt;&lt;h2 id=&quot;时间复杂度&quot;&gt;&lt;a href=&quot;#时间复杂度&quot; class=&quot;headerlink&quot;
+        
+      
     
     </summary>
     
@@ -237,7 +294,13 @@
     
     <summary type="html">
     
-      &lt;p&gt;b?x:y是C语言中唯一一个三目运算符（条件运算符）。&lt;br&gt;&lt;strong&gt;一般表达式：&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;表达式1&lt;em&gt;？&lt;/em&gt;表达式2&lt;em&gt;：&lt;/em&gt;表达式3&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;执行顺序：&lt;/strong&gt;如果&lt;em&gt;表达式1&lt;/em&gt;值非0（为真）则执行&lt;em&gt;表达式2&lt;/em&gt;，此时&lt;em&gt;表达式2&lt;/em&gt;的值作为整个表达式的值；如果&lt;em&gt;表达式1&lt;/em&gt;的值为0则执行&lt;em&gt;表达式3&lt;/em&gt;，此时&lt;em&gt;表达式3&lt;/em&gt;的值作为整个表达式的值&lt;br&gt;&lt;strong&gt;例如：&lt;/strong&gt;max=（a&amp;gt;b）?a:b,执行结果就是将a和b中大者赋给max。（条件运算符的优先级高于赋值运算，低于关系运算和算术运算）&lt;br&gt;&lt;strong&gt;例子：&lt;/strong&gt;输出a，b中较大者&lt;/p&gt;
+      
+      
+        
+        
+          &lt;p&gt;b?x:y是C语言中唯一一个三目运算符（条件运算符）。&lt;br&gt;&lt;strong&gt;一般表达式：&lt;/strong&gt;
+        
+      
     
     </summary>
     
