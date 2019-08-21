@@ -64,18 +64,12 @@
     <link href="https://51az.top/DSAA/"/>
     <id>https://51az.top/DSAA/</id>
     <published>2019-06-18T15:11:45.000Z</published>
-    <updated>2019-06-18T15:15:40.716Z</updated>
+    <updated>2019-08-21T09:00:31.978Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;保佑我数据结构不挂&lt;/strong&gt;&lt;/p&gt;
-&lt;h1 id=&quot;无向图深度优先搜索&quot;&gt;&lt;a href=&quot;#无向图深度优先搜索&quot; class=&quot;headerlink&quot; title=&quot;无向图深度优先搜索&quot;&gt;&lt;/a&gt;无向图深度优先搜索&lt;/h1&gt;&lt;h2
-        
-      
+      &lt;p&gt;&lt;strong&gt;保佑我数据结构不挂&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&quot;无向图深度优先搜索&quot;&gt;&lt;a href=&quot;#无向图深度优先搜索&quot; class=&quot;headerlink&quot; title=&quot;无向图深度优先搜索&quot;&gt;&lt;/a&gt;无向图深度优先搜索&lt;/h1&gt;
     
     </summary>
     
@@ -91,18 +85,11 @@
     <link href="https://51az.top/java01/"/>
     <id>https://51az.top/java01/</id>
     <published>2019-05-08T15:03:20.000Z</published>
-    <updated>2019-05-08T15:13:25.791Z</updated>
+    <updated>2019-08-21T09:02:45.866Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;将曾经用C语言写的一个猜数字小程序转化为java版&lt;br&gt;C语言代码： &lt;/p&gt;
-&lt;figure class=&quot;highlight cpp&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span
-        
-      
+      &lt;p&gt;将曾经用C语言写的一个猜数字小程序转化为java版  &lt;/p&gt;
     
     </summary>
     
@@ -118,17 +105,11 @@
     <link href="https://51az.top/note01/"/>
     <id>https://51az.top/note01/</id>
     <published>2019-03-27T13:31:09.000Z</published>
-    <updated>2019-03-30T09:26:21.363Z</updated>
+    <updated>2019-08-21T09:03:15.289Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;最近的生活很是无趣，一天天的准备着二级考试却好似一点进度都没有，分数总还是徘徊在这一块，也总是没有进步，却因为这个二级也好长时间没有写博客了。 
-        
-      
+      &lt;p&gt;最近的生活很是无趣，一天天的准备着二级考试却好似一点进度都没有，分数总还是徘徊在这一块，也总是没有进步，却因为这个二级也好长时间没有写博客了。  &lt;/p&gt;&lt;p&gt;我也不知道考完二级下一步是要做什么，是继续学习C/C++，还是学学Python，又或者学学JAVA，进一步学习安卓开发。总是这样什么都想要却什么都得不到，这正是我生活的表现啊。PS教程也好久没看了，想学很久了啊，算算这可能是第三次放弃了，总是有这样那样的借口去逃脱。英语也是这样隔了多少天没看了，自己的行动力和执行力总是欠缺那么多。 &lt;/p&gt;
     
     </summary>
     
@@ -144,17 +125,11 @@
     <link href="https://51az.top/atm/"/>
     <id>https://51az.top/atm/</id>
     <published>2019-03-04T00:45:48.000Z</published>
-    <updated>2019-03-10T08:14:02.322Z</updated>
+    <updated>2019-08-21T09:01:42.059Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
-        
-      
+      &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;为期两周的课程设计终于结束了，自己也结束了在实验室划水的日子。在这几天里我完成了自己的课程设计ATM模拟系统，这个课程设计主要用到了动态链表和文件。&lt;br&gt;对于链表自己之前是学过的，只是没有用过所以在使用过程中有许多的不熟悉，尤其是在处理文件中读取链表和将链表输出到文件还有历遍链表查找某个数据是否存在等问题时，对头指针和工作指针的把握总是不足。不过，经历了这次的程序设计我感觉我对指针和动态链表的理解越来越深了，对其的运用也越来越熟练了。&lt;/p&gt;
     
     </summary>
     
@@ -174,28 +149,22 @@
     <link href="https://51az.top/the-data-structure/"/>
     <id>https://51az.top/the-data-structure/</id>
     <published>2019-02-01T09:04:54.000Z</published>
-    <updated>2019-02-01T09:06:44.778Z</updated>
+    <updated>2019-08-21T09:03:39.023Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h1 id=&quot;数据结构的定义&quot;&gt;&lt;a href=&quot;#数据结构的定义&quot; class=&quot;headerlink&quot; title=&quot;数据结构的定义&quot;&gt;&lt;/a&gt;数据结构的定义&lt;/h1&gt;&lt;h2 id=&quot;数据：&quot;&gt;&lt;a href=&quot;#数据：&quot; class=&quot;headerlink&quot;
-        
-      
+      &lt;h1 id=&quot;数据结构的定义&quot;&gt;&lt;a href=&quot;#数据结构的定义&quot; class=&quot;headerlink&quot; title=&quot;数据结构的定义&quot;&gt;&lt;/a&gt;数据结构的定义&lt;/h1&gt;&lt;h2 id=&quot;数据：&quot;&gt;&lt;a href=&quot;#数据：&quot; class=&quot;headerlink&quot; title=&quot;数据：&quot;&gt;&lt;/a&gt;数据：&lt;/h2&gt;&lt;p&gt;是对客观事物的符号表示，在计算机科学中是指所有能输入到计算机程序中冰杯计算机程序处理的符号的总称。&lt;/p&gt;&lt;h2 id=&quot;数据元素：&quot;&gt;&lt;a href=&quot;#数据元素：&quot; class=&quot;headerlink&quot; title=&quot;数据元素：&quot;&gt;&lt;/a&gt;数据元素：&lt;/h2&gt;&lt;p&gt;是数据的基本单位，在计算机程序中通常作为一个整体进行考虑和处理。&lt;/p&gt;&lt;h2 id=&quot;数据对象：&quot;&gt;&lt;a href=&quot;#数据对象：&quot; class=&quot;headerlink&quot; title=&quot;数据对象：&quot;&gt;&lt;/a&gt;数据对象：&lt;/h2&gt;&lt;p&gt;是性质相同的数据元素的集合，是数据的一个子集。&lt;/p&gt;&lt;h1 id=&quot;数据逻辑结构&quot;&gt;&lt;a href=&quot;#数据逻辑结构&quot; class=&quot;headerlink&quot; title=&quot;数据逻辑结构&quot;&gt;&lt;/a&gt;数据逻辑结构&lt;/h1&gt;&lt;h2 id=&quot;定义：&quot;&gt;&lt;a href=&quot;#定义：&quot; class=&quot;headerlink&quot; title=&quot;定义：&quot;&gt;&lt;/a&gt;定义：&lt;/h2&gt;&lt;p&gt;数据逻辑结构是对数据元素之间逻辑关系的描述，它可以用一个数据元素的集合和定义在此集合中的若干关系来表示。&lt;/p&gt;
     
     </summary>
     
       <category term="C Program" scheme="https://51az.top/categories/C-Program/"/>
     
     
+      <category term="Data" scheme="https://51az.top/tags/Data/"/>
+    
       <category term="C Program" scheme="https://51az.top/tags/C-Program/"/>
     
       <category term="NCRE2" scheme="https://51az.top/tags/NCRE2/"/>
-    
-      <category term="Data" scheme="https://51az.top/tags/Data/"/>
     
   </entry>
   
@@ -204,17 +173,11 @@
     <link href="https://51az.top/list-node/"/>
     <id>https://51az.top/list-node/</id>
     <published>2019-01-25T12:13:07.000Z</published>
-    <updated>2019-01-30T03:10:27.442Z</updated>
+    <updated>2019-08-21T09:02:54.981Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h1 id=&quot;链表的解释：&quot;&gt;&lt;a href=&quot;#链表的解释：&quot; class=&quot;headerlink&quot;
-        
-      
+      &lt;h1 id=&quot;链表的解释：&quot;&gt;&lt;a href=&quot;#链表的解释：&quot; class=&quot;headerlink&quot; title=&quot;链表的解释：&quot;&gt;&lt;/a&gt;链表的解释：&lt;/h1&gt;&lt;p&gt;链表是一种常见的基础数据结构，结构体指针在这里得到了充分的利用。链表可以动态的进行存储分配，也就是说，链表是一个功能极为强大的数组，他可以在节点中定义多种数据类型，还可以根据需要随意增添，删除，插入节点。链表都有一个头指针，一般以head来表示，存放的是一个地址。链表中的节点分为两类，头结点和一般节点，头结点是没有数据域的。链表中每个节点都分为两部分，一个数据域，一个是指针域。说到这里你应该就明白了，链表就如同车链子一样，head指向第一个元素：第一个元素又指向第二个元素；……，直到最后一个元素，该元素不再指向其它元素，它称为“表尾”，它的地址部分放一个“NULL”（表示“空地址”），链表到此结束。&lt;/p&gt;
     
     </summary>
     
@@ -230,17 +193,14 @@
     <link href="https://51az.top/function/"/>
     <id>https://51az.top/function/</id>
     <published>2019-01-23T04:58:35.000Z</published>
-    <updated>2019-01-25T03:43:12.115Z</updated>
+    <updated>2019-08-21T09:02:27.806Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h1 id=&quot;isdigit&quot;&gt;&lt;a href=&quot;#isdigit&quot; class=&quot;headerlink&quot; title=&quot;isdigit&quot;&gt;&lt;/a&gt;isdigit&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;头文件：&lt;/strong&gt;
-        
-      
+      &lt;h1 id=&quot;isdigit&quot;&gt;&lt;a href=&quot;#isdigit&quot; class=&quot;headerlink&quot; title=&quot;isdigit&quot;&gt;&lt;/a&gt;isdigit&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;头文件：&lt;/strong&gt; ctype.h&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;定义：&lt;/strong&gt; isdigit(char ch)参数ch是一个char型字符。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;功能：&lt;/strong&gt; 判断char是否为十进制数字字符。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;说明：&lt;/strong&gt; isdigit(char)用来判断char是否为十进制数字字符，若不是，则返回NULL。&lt;/p&gt;
     
     </summary>
     
@@ -290,17 +250,11 @@
     <link href="https://51az.top/c-b-x-y/"/>
     <id>https://51az.top/c-b-x-y/</id>
     <published>2019-01-18T12:37:09.000Z</published>
-    <updated>2019-01-25T03:46:13.054Z</updated>
+    <updated>2019-08-21T09:02:18.053Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;b?x:y是C语言中唯一一个三目运算符（条件运算符）。&lt;br&gt;&lt;strong&gt;一般表达式：&lt;/strong&gt;
-        
-      
+      &lt;p&gt;b?x:y是C语言中唯一一个三目运算符（条件运算符）。&lt;br&gt;&lt;strong&gt;一般表达式：&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;表达式1&lt;em&gt;？&lt;/em&gt;表达式2&lt;em&gt;：&lt;/em&gt;表达式3&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
     
     </summary>
     
