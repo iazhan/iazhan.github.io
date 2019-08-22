@@ -1,0 +1,18 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+Allow: /tags/
+Allow: /categories/
+Allow: /archives/
+Allow: /about/
+Allow: /404/
+
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+
+Sitemap: https://51az.top/sitemap.xml
+Sitemap: https://51az.top/baidusitemap.xml
